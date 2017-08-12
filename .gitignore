@@ -1,0 +1,16 @@
+.DS_Store
+
+*.pyc
+
+.log
+*.tmp
+*.tmp.*
+log.txt
+.vscode/
+npm-debug.log*
+
+.idea/
+.tmp/
+node_modules/
+tmp/
+temp/
